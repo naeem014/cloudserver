@@ -1,0 +1,6 @@
+{
+	"name" : "cloud_server",
+	"scripts" : {
+		"start" : "node cloud_server.js"
+	}
+}
